@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+traffic_control.db-journal
+.streamlit/secrets.toml
